@@ -1,16 +1,37 @@
-### Hi there 👋
+#  Cezar Ribeiro
+## Analista de Dados
 
-<!--
-**CezarRibeiro/CezarRibeiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###  Formado em Análise e Desenvolvimento de Sistemas na Universidade Santa Cecília [UNISANTA](https://unisanta.br/);
+###  Atualmente aluno do curso de Análista de Dados da Escola Britânica de Artes Criativas & Tecnologia [EBAC](https://ebaconline.com.br/);
+###  Buscando aprimorar meus conhecimentos na área de Dados.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## O que utilizo:
+
+<div>
+ <img width="10%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg">
+ <img width="10%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg">    
+ <img width="10%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg">    
+ <img width="10%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg">
+</div>
+          
+                   
+
+## Em desenvolvimento:
+
+<div>
+ <img width="10%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original-wordmark.svg">
+ <img width="9%" src="https://github.com/GrazielleHenrique/GrazielleHenrique/assets/152180192/0d1cd64c-670a-42f1-b879-4e3e4d0e30ee">
+ <img src= "https://github.com/GrazielleHenrique/GrazielleHenrique/assets/152180192/f757affa-7b11-4cfa-b1be-1a0f4ce48cd2">
+
+          
+  
+
+</div>
+
+### Contatos:
+
+<div>
+   <a href = "mailto:devcezarribeiro@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/cezarribeiro/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
